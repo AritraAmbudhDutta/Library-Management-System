@@ -177,4 +177,4 @@ Thank you for using the Library Management System! I hope this software helps st
 
 Happy reading and managing!!
 
-This program was developed by **Aritra Ambudh Dutta** as part of CS253 Course Programming Assignment offered in Semester 2024-25/II IITK.
+This program was developed by **Aritra Ambudh Dutta** as part of CS253 Course Programming Assignment offered in Semester 2024-25/II at IIT Kanpur.
